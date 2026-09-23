@@ -1,8 +1,8 @@
 ---
-name: stinkyboy
+name: stinkyboy-bodega
 description: One integration, one wallet relationship. Thousands of callable tools, paid per call in USDC via x402. Charge on success only — errors and verification failures settle nothing.
 ---
-# stinkyboy skill
+# Stinkyboy Bodega
 
 One integration, one wallet relationship. Thousands of callable tools, paid per call in USDC via x402. Charge on success only — errors and verification failures settle nothing.
 
