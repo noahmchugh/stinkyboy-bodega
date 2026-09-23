@@ -1,6 +1,6 @@
-# stinkyboy skill
+# Stinkyboy Bodega
 
-# stinkyboy skill
+# Stinkyboy Bodega
 
 One integration, one wallet relationship. Thousands of callable tools, paid per call in USDC via x402. Charge on success only — errors and verification failures settle nothing.
 
